@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "gaster1",
+			"speed": 0.05,
+			"portrait": "gaster",
+			"boxState": "normal",
+			"expression": "1",
+			"text": "."
+		},
+		{
+			"sound": "bf1",
+			"speed": 0.05,
+			"portrait": "gaster",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "."
+		},
+		{
+			"sound": "gaster1",
+			"speed": 0.05,
+			"portrait": "gaster",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "."
+		},
+		{
+			"sound": "gaster1",
+			"speed": 0.05,
+			"portrait": "gaster",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "."
+		},
+		{
+			"sound": "bf1",
+			"speed": 0.05,
+			"portrait": "gaster",
+			"boxState": "normal",
+			"expression": "5",
+			"text": "."
+		},
+		{
+			"sound": "gaster1",
+			"speed": 0.05,
+			"portrait": "gaster",
+			"boxState": "normal",
+			"expression": "6",
+			"text": "."
+		},
+		{
+			"sound": "gaster1",
+			"speed": 0.05,
+			"portrait": "gaster",
+			"boxState": "normal",
+			"expression": "7",
+			"text": "."
+		},
+		{
+			"sound": "gaster1",
+			"speed": 0.05,
+			"portrait": "gaster",
+			"boxState": "normal",
+			"expression": "8",
+			"text": "."
+		},
+		{
+			"sound": "gaster1",
+			"speed": 0.05,
+			"portrait": "gaster",
+			"boxState": "normal",
+			"expression": "9",
+			"text": "."
+		}
+	]
+}

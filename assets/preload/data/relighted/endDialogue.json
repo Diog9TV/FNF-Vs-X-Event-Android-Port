@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "end",
+			"boxState": "normal",
+			"expression": "1",
+			"text": "."
+		},
+		{
+			"sound": "gaster1",
+			"speed": 0.05,
+			"portrait": "end",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "."
+		},
+		{
+			"sound": "gaster1",
+			"speed": 0.05,
+			"portrait": "end",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "."
+		}
+	]
+}
