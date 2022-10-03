@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "ink1",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "1",
+			"text": "."
+		},
+		{
+			"sound": "bf1",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "."
+		},
+		{
+			"sound": "ink1",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "."
+		},
+		{
+			"sound": "bf1",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "."
+		},
+		{
+			"sound": "ink1",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "5",
+			"text": "."
+		}
+	]
+}
