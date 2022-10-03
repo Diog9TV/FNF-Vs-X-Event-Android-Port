@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		120,
+		-60
+	],
+	"scale": 1.45,
+	"animations": [
+		{
+			"loop_name": "end1",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "end1",
+			"anim": "1",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "end2",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "end2",
+			"anim": "2",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "end3",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "end3",
+			"anim": "3",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "end"
+}
