@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logoBumpin.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="end10000" x="5" y="5" width="1280" height="720"/>
+	<SubTexture name="end20000" x="5" y="735" width="1280" height="720"/>
+	<SubTexture name="end30000" x="1295" y="5" width="1280" height="720"/>
+</TextureAtlas>
